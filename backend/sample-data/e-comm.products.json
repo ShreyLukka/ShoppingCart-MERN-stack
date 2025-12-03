@@ -1,0 +1,504 @@
+[{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9ec"
+  },
+  "title": "Essence Mascara Lash Princess",
+  "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+  "price": 800,
+  "category": [
+    "beauty"
+  ],
+  "stock": 50,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9ed"
+  },
+  "title": "Eyeshadow Palette with Mirror",
+  "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+  "price": 1600,
+  "category": [
+    "beauty"
+  ],
+  "stock": 44,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9ee"
+  },
+  "title": "Powder Canister",
+  "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+  "price": 1200,
+  "category": [
+    "beauty"
+  ],
+  "stock": 91,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9ef"
+  },
+  "title": "Red Lipstick",
+  "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+  "price": 1000,
+  "category": [
+    "beauty"
+  ],
+  "stock": 92,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f0"
+  },
+  "title": "Red Nail Polish",
+  "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+  "price": 750,
+  "category": [
+    "beauty"
+  ],
+  "stock": 79,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f1"
+  },
+  "title": "Calvin Klein CK One",
+  "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+  "price": 4000,
+  "category": [
+    "fragrances"
+  ],
+  "stock": 29,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f2"
+  },
+  "title": "Chanel Coco Noir Eau De",
+  "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+  "price": 6000,
+  "category": [
+    "fragrances"
+  ],
+  "stock": 58,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f3"
+  },
+  "title": "Dior J'adore",
+  "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+  "price": 7200,
+  "category": [
+    "fragrances"
+  ],
+  "stock": 98,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f4"
+  },
+  "title": "Dolce Shine Eau de",
+  "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+  "price": 5500,
+  "category": [
+    "fragrances"
+  ],
+  "stock": 4,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f5"
+  },
+  "title": "Gucci Bloom Eau de",
+  "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+  "price": 6500,
+  "category": [
+    "fragrances"
+  ],
+  "stock": 91,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/2.webp",
+    "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f6"
+  },
+  "title": "Annibale Colombo Bed",
+  "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+  "price": 35000,
+  "category": [
+    "furniture"
+  ],
+  "stock": 88,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f7"
+  },
+  "title": "Annibale Colombo Sofa",
+  "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+  "price": 28000,
+  "category": [
+    "furniture"
+  ],
+  "stock": 60,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f8"
+  },
+  "title": "Bedside Table African Cherry",
+  "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+  "price": 20000,
+  "category": [
+    "furniture"
+  ],
+  "stock": 64,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/2.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9f9"
+  },
+  "title": "Knoll Saarinen Executive Conference Chair",
+  "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+  "price": 10000,
+  "category": [
+    "furniture"
+  ],
+  "stock": 26,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9fa"
+  },
+  "title": "Wooden Bathroom Sink With Mirror",
+  "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+  "price": 7500,
+  "category": [
+    "furniture"
+  ],
+  "stock": 7,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/1.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/2.webp",
+    "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/3.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9fb"
+  },
+  "title": "Apple",
+  "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+  "price": 120,
+  "category": [
+    "groceries"
+  ],
+  "stock": 8,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9fc"
+  },
+  "title": "Beef Steak",
+  "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+  "price": 1000,
+  "category": [
+    "groceries"
+  ],
+  "stock": 86,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9fd"
+  },
+  "title": "Cat Food",
+  "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+  "price": 350,
+  "category": [
+    "groceries"
+  ],
+  "stock": 46,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9fe"
+  },
+  "title": "Chicken Meat",
+  "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+  "price": 750,
+  "category": [
+    "groceries"
+  ],
+  "stock": 97,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfd9ff"
+  },
+  "title": "Cooking Oil",
+  "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+  "price": 400,
+  "category": [
+    "groceries"
+  ],
+  "stock": 10,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda00"
+  },
+  "title": "Cucumber",
+  "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+  "price": 50,
+  "category": [
+    "groceries"
+  ],
+  "stock": 84,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/cucumber/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda01"
+  },
+  "title": "Dog Food",
+  "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+  "price": 300,
+  "category": [
+    "groceries"
+  ],
+  "stock": 71,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/dog-food/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda02"
+  },
+  "title": "Eggs",
+  "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+  "price": 40,
+  "category": [
+    "groceries"
+  ],
+  "stock": 9,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/eggs/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda03"
+  },
+  "title": "Fish Steak",
+  "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+  "price": 1100,
+  "category": [
+    "groceries"
+  ],
+  "stock": 74,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/fish-steak/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda04"
+  },
+  "title": "Green Bell Pepper",
+  "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+  "price": 100,
+  "category": [
+    "groceries"
+  ],
+  "stock": 33,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda05"
+  },
+  "title": "Green Chili Pepper",
+  "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+  "price": 80,
+  "category": [
+    "groceries"
+  ],
+  "stock": 3,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda06"
+  },
+  "title": "Honey Jar",
+  "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+  "price": 580,
+  "category": [
+    "groceries"
+  ],
+  "stock": 34,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/honey-jar/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda07"
+  },
+  "title": "Ice Cream",
+  "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+  "price": 250,
+  "category": [
+    "groceries"
+  ],
+  "stock": 27,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/ice-cream/2.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/ice-cream/3.webp",
+    "https://cdn.dummyjson.com/product-images/groceries/ice-cream/4.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda08"
+  },
+  "title": "Juice",
+  "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+  "price": 120,
+  "category": [
+    "groceries"
+  ],
+  "stock": 50,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692551d1d6c66c4c84cfda09"
+  },
+  "title": "Kiwi",
+  "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+  "price": 200,
+  "category": [
+    "groceries"
+  ],
+  "stock": 99,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
+  ],
+  "__v": 0
+}]
